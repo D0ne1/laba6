@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 6\Лаба 6\Лаба 6\bin\Debug\Лаба 6.exe.config
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 6\Лаба 6\Лаба 6\bin\Debug\Лаба 6.exe
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 6\Лаба 6\Лаба 6\bin\Debug\Лаба 6.pdb
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.exe
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.pdb
+C:\ДАНИИЛ\универ\прога\laba_6\Лаба 6\Лаба 6\bin\Debug\Лаба 6.exe.config
+C:\ДАНИИЛ\универ\прога\laba_6\Лаба 6\Лаба 6\bin\Debug\Лаба 6.exe
+C:\ДАНИИЛ\универ\прога\laba_6\Лаба 6\Лаба 6\bin\Debug\Лаба 6.pdb
+C:\ДАНИИЛ\универ\прога\laba_6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\прога\laba_6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\прога\laba_6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.exe
+C:\ДАНИИЛ\универ\прога\laba_6\Лаба 6\Лаба 6\obj\Debug\Лаба 6.pdb
